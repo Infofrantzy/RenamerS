@@ -28,7 +28,7 @@
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/Darklightning2008/RenamerS"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Infofrantzy/Darklightning2008/RenamerS"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 
 
